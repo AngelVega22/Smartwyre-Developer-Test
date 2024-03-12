@@ -4,8 +4,16 @@ This project implements a rebate calculation system as part of the Smartwyre Dev
 It includes a RebateService that calculates rebates based on different incentive types and stores the results in a data store.
 
 
+## Installation
+Clone the repository:
 
-Usage
+bash
+`
+https://github.com/AngelVega22/Smartwyre-Developer-Test.git
+`
+
+## Usage
+
 Open the solution in Visual Studio or your preferred code editor.
 
 Run the tests to ensure everything is working correctly.
