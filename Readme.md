@@ -29,11 +29,8 @@ https://github.com/AngelVega22/Smartwyre-Developer-Test.git
 
     Explore the `RebateService` class, `ProductDataStore`, and `RebateDataStore` for rebate calculation and data storage.
 
-4. **Modify the `Program.cs` file:**
 
-    Modify the `Program.cs` file in the `Smartwyre.DeveloperTest.Runner` project to interact with the rebate calculation system through the console.
-
-5. **Run the console application:**
+4. **Run the console application:**
 
     Run the `Smartwyre.DeveloperTest.Runner` project to interactively calculate rebates.
 
