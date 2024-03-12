@@ -7,7 +7,6 @@ It includes a RebateService that calculates rebates based on different incentive
 ## Installation
 Clone the repository:
 
-bash
 `
 https://github.com/AngelVega22/Smartwyre-Developer-Test.git
 `
