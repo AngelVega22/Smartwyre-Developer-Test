@@ -11,14 +11,32 @@ Clone the repository:
 https://github.com/AngelVega22/Smartwyre-Developer-Test.git
 `
 
-## Usage
+### Usage
 
-Open the solution in Visual Studio or your preferred code editor.
+1. **Open the solution:**
 
-Run the tests to ensure everything is working correctly.
+    Open the solution in Visual Studio or your preferred code editor.
 
-Explore the RebateService class, ProductDataStore, and RebateDataStore for rebate calculation and data storage.
+2. **Run the tests:**
 
-Modify the Program.cs file in the Smartwyre.DeveloperTest.Runner project to interact with the rebate calculation system through the console.
+    Ensure everything is working correctly by running the tests.
 
-Run the Smartwyre.DeveloperTest.Runner project to interactively calculate rebates.
+    ```bash
+    dotnet test
+    ```
+
+3. **Explore the code:**
+
+    Explore the `RebateService` class, `ProductDataStore`, and `RebateDataStore` for rebate calculation and data storage.
+
+4. **Modify the `Program.cs` file:**
+
+    Modify the `Program.cs` file in the `Smartwyre.DeveloperTest.Runner` project to interact with the rebate calculation system through the console.
+
+5. **Run the console application:**
+
+    Run the `Smartwyre.DeveloperTest.Runner` project to interactively calculate rebates.
+
+    ```bash
+    dotnet run --project Smartwyre.DeveloperTest.Runner
+    ```
